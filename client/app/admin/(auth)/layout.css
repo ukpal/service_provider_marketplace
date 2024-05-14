@@ -1,0 +1,15 @@
+.auth-layout {
+    width: 100%;
+    height: 100vh;
+    /* background-color: #e2f3f5; */
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.212) 30%, rgba(0, 0, 0, 0.212) 100%), url('https://i0.wp.com/backgroundabstract.com/wp-content/uploads/edd/2022/02/5594016-e1656071131636.jpg?resize=150150&ssl=1');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .card{
+    background-color: #e2f3f5;
+} */

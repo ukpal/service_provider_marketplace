@@ -2,7 +2,7 @@ import React from 'react'
 
 const SellerRegistration = () => {
   return (
-    <div className="card w-50 text-bg-dark">
+    <div className="card w-50 text-bg-white">
       <div className="card-header">
         Register as a seller
       </div>
